@@ -1,7 +1,7 @@
 <h2 align="center">
 ### Auto Script Install By Liufey
-Multy Port 443
-SSH WS SSL, VMESS, VLESS, TROJAN GFW, TROJAN GO
+### Multy Port 443
+### SSH WS SSL, VMESS, VLESS, TROJAN GFW, TROJAN GO
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
 
 </p> 
@@ -16,16 +16,15 @@ src="https://img.shields.io/badge/Service-V2RAY_vmess-success.svg"> <img
 src="https://img.shields.io/badge/Service-V2RAY_vless-success.svg"> <img src= "https://img.shields.io/badge/Service-SSR-success.svg">  <img src="https://img.shields.io/badge/Service-Trojan_GFW-success.svg">  <img src="https://img.shields.io/badge/Service-Trojan_Go-success.svg"> <img src="https://img.shields.io/badge/Service-WireGuard-success.svg">  <img src= "https://img.shields.io/badge/Service-Shadowsocks-success.svg">  
 
 
-### Os Supported
-
+### OS SUPPORTED
 • Debian 10 & 9
 
 • Ubuntu 18.04 & 20.04
 
 
-## Installation 
+## INSTALLATION
 
-###  <img src="https://img.shields.io/badge/Akses_IP%20-green"> 
+###  <img src="https://img.shields.io/badge/Akses-IP%20-green"> 
 ```html
 https://github.com/liuuufey/aksesip/blob/main/ip
 ```
@@ -35,12 +34,12 @@ https://github.com/liuuufey/aksesip/blob/main/ip
 apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
 ```
   
-###  <img src="https://img.shields.io/badge/Gas_keunnnn%20-green">
+###  <img src="https://img.shields.io/badge/Gas-keunnnn%20-green">
 ```html
 rm -rf install.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/liuuufey/jhoy/main/install.sh && chmod +x install.sh && screen -S install ./install.sh
 ```
 
-### Featur
+### FEATURES
 
 • SSH & OpenVPN
 
@@ -71,7 +70,7 @@ rm -rf install.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net
 • Restore Data ALL Service
 
 
-### Service & Port
+### SERVICE & PORT
 
 • OpenSSH                 : 22
 
@@ -119,7 +118,7 @@ rm -rf install.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net
 
 • Trojan Go               : 443
 
- ### Server Information & Other Features
+ ### SERVICE INFORMATION & OTHER FEATURES
 
 • Timezone                : Asia/Jakarta (GMT +7)
 
@@ -141,8 +140,8 @@ rm -rf install.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net
 
 • White Label
 
-###  <img src="https://img.shields.io/badge/Dev/Main%20-green">                 : Jhoy Project
-###  <img src="https://img.shields.io/badge/Telegram%20-green">               : @liuuufey"  | tee -a log-install.txt
+###  <img src="https://img.shields.io/badge/Dev/Main%20-green">                 ###: Jhoy Project
+###  <img src="https://img.shields.io/badge/Telegram%20-green">               ###: @liuuufey
 
 
 
