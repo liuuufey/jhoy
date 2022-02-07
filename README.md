@@ -2,7 +2,7 @@
 Auto Script Install By Liufey
 Multy Port 443
 SSH WS SSL, VMESS, VLESS, TROJAN GFW, TROJAN GO
-<img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
+<img src="https://img.shields.io/badge/Version-2.0.0-blue.svg"></h2>
 
 </p> 
 <h2 align="center"> Supported Linux Distribution</h2>
@@ -15,12 +15,11 @@ SSH WS SSL, VMESS, VLESS, TROJAN GFW, TROJAN GO
 src="https://img.shields.io/badge/Service-V2RAY_vmess-success.svg"> <img
 src="https://img.shields.io/badge/Service-V2RAY_vless-success.svg"> <img src= "https://img.shields.io/badge/Service-SSR-success.svg">  <img src="https://img.shields.io/badge/Service-Trojan_GFW-success.svg">  <img src="https://img.shields.io/badge/Service-Trojan_Go-success.svg"> <img src="https://img.shields.io/badge/Service-WireGuard-success.svg">  <img src= "https://img.shields.io/badge/Service-Shadowsocks-success.svg">  
 
-
 ### OS SUPPORTED
+
 • Debian 10 & 9
 
 • Ubuntu 18.04 & 20.04
-
 
 ## INSTALLATION
 
@@ -68,7 +67,6 @@ rm -rf install.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net
 • Backup Data ALL Service
 
 • Restore Data ALL Service
-
 
 ### SERVICE & PORT
 
@@ -140,8 +138,10 @@ rm -rf install.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net
 
 • White Label
 
-###  <img src="https://img.shields.io/badge/Dev/Main%20-green">                 ###: Jhoy Project
-###  <img src="https://img.shields.io/badge/Telegram%20-green">               ###: @liuuufey
+
+
+###  <img src="https://img.shields.io/badge/Dev-Main%20-green">                  Jhoy Project
+###  <img src="https://img.shields.io/badge/Telegram-Me%20-green">               @liuuufey
 
 
 
