@@ -1,5 +1,5 @@
 <h2 align="center">
-Auto Script Install By Liufey
+### Auto Script Install By Liufey
 Multy Port 443
 SSH WS SSL, VMESS, VLESS, TROJAN GFW, TROJAN GO
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
@@ -12,7 +12,8 @@ SSH WS SSL, VMESS, VLESS, TROJAN GFW, TROJAN GO
 
 <p align="center"><img src="https://img.shields.io/badge/Service-SSH_Websocket-success.svg">  <img src= "https://img.shields.io/badge/Service-SSTP_VPN-success.svg">  <img src= "https://img.shields.io/badge/Service-L2TP_VPN-success.svg">  <img src= "https://img.shields.io/badge/Service-PPTP_VPN-success.svg">
 <p align="center"><img src="https://img.shields.io/badge/Service-SSH_OpenSSH-success.svg">  <img src="https://img.shields.io/badge/Service-SSH_Dropbear-success.svg">  <img src="https://img.shields.io/badge/Service-BadVPN-success.svg">  <img src="https://img.shields.io/badge/Service-Stunnel-success.svg">  <img src="https://img.shields.io/badge/Service-OpenVPN-success.svg">  <img src="https://img.shields.io/badge/Service-Squid3-success.svg">  <img   src="https://img.shields.io/badge/Service-Webmin-success.svg">  <img
-src="https://img.shields.io/badge/Service-V2RAY_V2ray-success.svg">  <img src= "https://img.shields.io/badge/Service-SSR-success.svg">  <img src="https://img.shields.io/badge/Service-Trojan_GFW-success.svg">  <img src="https://img.shields.io/badge/Service-Trojan_Go-success.svg"> <img src="https://img.shields.io/badge/Service-WireGuard-success.svg">  <img src= "https://img.shields.io/badge/Service-Shadowsocks-success.svg">  
+src="https://img.shields.io/badge/Service-V2RAY_vmess-success.svg"> <img
+src="https://img.shields.io/badge/Service-V2RAY_vless-success.svg"> <img src= "https://img.shields.io/badge/Service-SSR-success.svg">  <img src="https://img.shields.io/badge/Service-Trojan_GFW-success.svg">  <img src="https://img.shields.io/badge/Service-Trojan_Go-success.svg"> <img src="https://img.shields.io/badge/Service-WireGuard-success.svg">  <img src= "https://img.shields.io/badge/Service-Shadowsocks-success.svg">  
 
 
 ### Os Supported
@@ -24,23 +25,23 @@ src="https://img.shields.io/badge/Service-V2RAY_V2ray-success.svg">  <img src= "
 
 ## Installation 
 
-# Akses IP
-   ```html
-  https://github.com/liuuufey/aksesip/blob/main/ip
-  ```
+###  <img src="https://img.shields.io/badge/Akses_IP%20-green"> 
+```html
+https://github.com/liuuufey/aksesip/blob/main/ip
+```
 
-# 
-##   <img src="https://img.shields.io/badge/Gas-Update%20-green"> 
-  ```html
+###  <img src="https://img.shields.io/badge/Gas-Update%20-green"> 
+```html
 apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
 ```
   
-###  <img src="https://img.shields.io/badge/Gas_keunnnn%20Batch-green">
-  ```html
+###  <img src="https://img.shields.io/badge/Gas_keunnnn%20-green">
+```html
 rm -rf install.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/liuuufey/jhoy/main/install.sh && chmod +x install.sh && screen -S install ./install.sh
 ```
 
-### Fitur Script
+### Featur
+
 • SSH & OpenVPN
 
 • SSH WEBSOCKET SSL & HTTP
@@ -70,7 +71,7 @@ rm -rf install.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net
 • Restore Data ALL Service
 
 
-# Service & Port
+### Service & Port
 
 • OpenSSH                 : 22
 
@@ -140,7 +141,8 @@ rm -rf install.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net
 
 • White Label
 
+###  <img src="https://img.shields.io/badge/Dev/Main%20-green">                 : Jhoy Project
+###  <img src="https://img.shields.io/badge/Telegram%20-green">               : @liuuufey"  | tee -a log-install.txt
 
 
-# Dev/Main                : Jhoy Project
-# Telegram                : @liuuufey
+
