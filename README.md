@@ -20,7 +20,7 @@ src="https://img.shields.io/badge/Service-V2RAY_vless-success.svg"> <img src= "h
 
 • 𝙐𝙗𝙪𝙣𝙩𝙪 𝟭𝟴.𝟬𝟰 & 𝟮𝟬.𝟬𝟰
 
-## INSTALLATION
+### INSTALLATION
 
 ###  <img src="https://img.shields.io/badge/Akses-IP%20-green"> 
 ```html
