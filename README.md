@@ -137,10 +137,15 @@ rm -rf install.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net
 
 • 𝙒𝙝𝙞𝙩𝙚 𝙇𝙖𝙗𝙚𝙡
 
+### Contact Uing
+
 <h2 align="center">
 <img src="https://img.shields.io/badge/Version-2.0.0-blue.svg"></h2>
-<h2 align="center">  <img src="https://img.shields.io/badge/Dev-Main%20-green">                  <img src="https://img.shields.io/badge/Jhoy Project-blue.svg"></h2>
-<h2 align="center"> <img src="https://img.shields.io/badge/Telegram_Me-@liuuufey%20-green">               <img src="https://img.shields.io/badge/@liuuufey-blue.svg"></h2>
+<h2 align="center">  <img src="https://img.shields.io/badge/Dev-Main%20-green">            <img src="https://img.shields.io/badge/Jhoy Project-blue.svg"></h2>
+
+<p align="center">
+<a href="https://t.me/liuuufey" target="_blank"><img src="https://img.shields.io/badge/Telegram-%liuuufey_-red?style=for-the-badge&logo=telegram"></a>
+</p>
 
 
 
