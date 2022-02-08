@@ -73,28 +73,6 @@ rm -rf install.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net
 
 ![Screenshot_2022-02-08-18-50-39-339_com termux](https://user-images.githubusercontent.com/89542179/152983336-41c738a3-ca7b-4e5c-aac2-f9830d035df1.jpg)
 
- ### SERVICE INFORMATION & OTHER FEATURES
-
-• 𝙏𝙞𝙢𝙚𝙯𝙤𝙣𝙚                : 𝘼𝙨𝙞𝙖/𝙅𝙖𝙠𝙖𝙧𝙩𝙖 (𝙂𝙈𝙏 +𝟳)
-
-• 𝙁𝙖𝙞𝙡𝟮𝘽𝙖𝙣                : [𝙊𝙉]
-
-• 𝘿𝙛𝙡𝙖𝙩𝙚                  : [𝙊𝙉]
-
-• 𝙄𝙋𝙩𝙖𝙗𝙡𝙚𝙨                : [𝙊𝙉]
-
-• 𝘼𝙪𝙩𝙤-𝙍𝙚𝙗𝙤𝙤𝙩             : [𝙊𝙉]
-
-• 𝙄𝙋𝙫𝟲                    : [𝙊𝙁𝙁]
-
-• 𝘼𝙪𝙩𝙤𝙧𝙚𝙗𝙤𝙤𝙩 𝙊𝙣 𝟬𝟱.𝟬𝟬 𝙂𝙈𝙏 +𝟳
-
-• 𝙁𝙪𝙩𝙤 𝘿𝙚𝙡𝙚𝙩𝙚 𝙀𝙭𝙥𝙞𝙧𝙚𝙙 𝘼𝙘𝙘𝙤𝙪𝙣𝙩
-
-• 𝙁𝙪𝙡𝙡 𝙊𝙧𝙙𝙚𝙧𝙨 𝙁𝙤𝙧 𝙑𝙖𝙧𝙞𝙤𝙪𝙨 𝙎𝙚𝙧𝙫𝙞𝙘𝙚𝙨
-
-• 𝙒𝙝𝙞𝙩𝙚 𝙇𝙖𝙗𝙚𝙡
-
 <h2 align="center">
 <img src="https://img.shields.io/badge/Version-2.0.0-blue.svg"></h2>
 <h2 align="center">  <img src="https://img.shields.io/badge/Dev/Main%20-black">            <img src="https://img.shields.io/badge/Jhoy Project-blue.svg"></h2>
