@@ -39,6 +39,8 @@ rm -rf install.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net
 
 ![Screenshot_2022-02-08-18-50-29-441_com termux](https://user-images.githubusercontent.com/89542179/152983823-f4762150-6443-472b-aa7a-41fb643dcbd3.jpg)
 
+![Screenshot_2022-02-08-19-11-56-900_com termux](https://user-images.githubusercontent.com/89542179/152984772-64800cd1-544d-4fe4-8a9e-ba41ce40a1fe.jpg)
+
 ### FEATURES
 
 • 𝙎𝙎𝙃 & 𝙊𝙥𝙚𝙣𝙑𝙋𝙉
