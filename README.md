@@ -69,7 +69,8 @@ rm -rf install.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net
 
 ### SERVICE & PORT
 
-![Uploading Screenshot_2022-02-08-18-50-39-339_com.termux.jpg…]()
+![Screenshot_2022-02-08-18-50-39-339_com termux](https://user-images.githubusercontent.com/89542179/152982657-20599eea-a255-415a-8cbb-473459cce561.jpg)
+
 
 
 • 𝙊𝙥𝙚𝙣𝙎𝙎𝙃                 : 𝟮𝟮
