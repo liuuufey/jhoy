@@ -69,6 +69,9 @@ rm -rf install.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net
 
 ### SERVICE & PORT
 
+![Uploading Screenshot_2022-02-08-18-50-39-339_com.termux.jpg…]()
+
+
 • 𝙊𝙥𝙚𝙣𝙎𝙎𝙃                 : 𝟮𝟮
 
 • 𝙊𝙥𝙚𝙣𝙑𝙋𝙉                 : 𝙏𝘾𝙋 𝟭𝟭𝟵𝟰, 𝙐𝘿𝙋 𝟮𝟮𝟬𝟬, 𝙎𝙎𝙇 𝟰𝟰𝟮
