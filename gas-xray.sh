@@ -58,6 +58,7 @@ date
 # install crt
 mkdir -p /var/log/xray/
 mkdir -p /etc/xray/
+touch /etc/xray/domain
 
 
 mkdir /root/.acme.sh
