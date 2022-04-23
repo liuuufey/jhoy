@@ -37,40 +37,6 @@ apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
 rm -rf install.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/liuuufey/jhoy/main/install.sh && chmod +x install.sh && screen -S install ./install.sh
 ```
 
-![Screenshot_2022-02-08-18-50-29-441_com termux](https://user-images.githubusercontent.com/89542179/152983823-f4762150-6443-472b-aa7a-41fb643dcbd3.jpg)
-
-![Screenshot_2022-02-08-19-11-56-900_com termux](https://user-images.githubusercontent.com/89542179/152984772-64800cd1-544d-4fe4-8a9e-ba41ce40a1fe.jpg)
-
-### FEATURES
-
-• 𝙎𝙎𝙃 & 𝙊𝙥𝙚𝙣𝙑𝙋𝙉
-
-• 𝙎𝙎𝙃 𝙒𝙀𝘽𝙎𝙊𝘾𝙆𝙀𝙏 𝙎𝙎𝙇 & 𝙃𝙏𝙏𝙋
-
-• 𝙎𝙃𝘼𝘿𝙊𝙒𝙎𝙊𝘾𝙆𝙎
-
-• 𝙎𝙎𝙍
-
-• 𝙋𝙋𝙏𝙋 𝙑𝙋𝙉
-
-• 𝙇𝟮𝙏𝙋 𝙑𝙋𝙉
-
-• 𝙎𝙎𝙏𝙋 𝙑𝙋𝙉
-
-• 𝙒𝙄𝙍𝙀𝙂𝙐𝘼𝙍𝘿
-
-• 𝙑𝟮𝙍𝘼𝙔 𝙑𝙈𝙀𝙎𝙎 
-
-• 𝙑𝟮𝙍𝘼𝙔 𝙑𝙇𝙀𝙎𝙎
-
-• 𝙏𝙍𝙊𝙅𝘼𝙉 𝙂𝙁𝙒
-
-• 𝙏𝙍𝙊𝙅𝘼𝙉 𝙂𝙊
-
-• 𝘽𝙖𝙘𝙠𝙪𝙥 𝘿𝙖𝙩𝙖 𝘼𝙇𝙇 𝙎𝙚𝙧𝙫𝙞𝙘𝙚
-
-• 𝙍𝙚𝙨𝙩𝙤𝙧𝙚 𝘿𝙖𝙩𝙖 𝘼𝙇𝙇 𝙎𝙚𝙧𝙫𝙞𝙘𝙚
-
 ### SERVICE & PORT
 
 ![Screenshot_2022-02-08-18-50-39-339_com termux](https://user-images.githubusercontent.com/89542179/152983336-41c738a3-ca7b-4e5c-aac2-f9830d035df1.jpg)
