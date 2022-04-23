@@ -30,7 +30,7 @@ rm -rf install.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net
 
 ![Screenshot_2022-02-08-18-50-39-339_com termux](https://user-images.githubusercontent.com/89542179/152983336-41c738a3-ca7b-4e5c-aac2-f9830d035df1.jpg)
 
-<h2 align="center">  <img src="https://img.shields.io/badge/Mod By%20-black">            <img src="https://img.shields.io/badge/Jhoy/liuuufey-blue.svg"></h2>
+<h2 align="center">  <img src="https://img.shields.io/badge/Mod-By%20-black">            <img src="https://img.shields.io/badge/Jhoy/liuuufey-blue.svg"></h2>
 
 ### Contact Uing
 
