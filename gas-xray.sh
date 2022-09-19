@@ -136,6 +136,18 @@ server {
         proxy_set_header Connection '"'upgrade'"';
         proxy_set_header Host "'"$http_host"'";
 	    }
+	location /vlgRPC 
+	{
+        client_max_body_size 0;
+        keepalive_time 1071906480m;
+        keepalive_requests 4294967296;
+        client_body_timeout 1071906480m;
+        send_timeout 1071906480m;
+        lingering_close always;
+        grpc_read_timeout 1071906480m;
+        grpc_send_timeout 1071906480m;
+        grpc_pass grpc://127.0.0.1:31304;
+	}
 	location /Trojan-go
         {
         proxy_redirect off;
