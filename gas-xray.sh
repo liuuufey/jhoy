@@ -445,6 +445,80 @@ cat> /etc/xray/trojan.json <<END
   }
 }
 END
+cat> /etc/xray/vlgrpc.json<<END
+{
+  "log": {
+        "access": "/var/log/xray/vlgrpc.log",
+        "error": "/var/log/xray/error.log",
+        "loglevel": "warning"
+    },
+  "inbounds": [
+    {
+    "port":31304,
+      "listen": "127.0.0.1",
+      "tag": "vless-in",
+      "protocol": "vless",
+      "settings": {
+        "clients": [
+        {
+            "id": "${uuid}"
+#tls
+          }
+        ],
+	    "decryption": "none"
+      },
+      "streamSettings": {
+        "network": "grpc",
+        "grpcSettings": {
+         "serviceName": "vlgRPC",
+         "multiMode": true
+        }
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "freedom",
+      "settings": { },
+      "tag": "direct"
+    },
+    {
+      "protocol": "blackhole",
+      "settings": { },
+      "tag": "blocked"
+    }
+  ],
+  "dns": {
+    "servers": [
+      "https+local://1.1.1.1/dns-query",
+          "1.1.1.1",
+          "1.0.0.1",
+          "8.8.8.8",
+          "8.8.4.4",
+          "localhost"
+    ]
+  },
+  "routing": {
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "type": "field",
+        "inboundTag": [
+          "vless-in"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "type": "field",
+        "outboundTag": "blocked",
+        "protocol": [
+          "bittorrent"
+        ]
+      }
+    ]
+  }
+}
+END
 cat> /etc/xray/trojanws.json << END
 {
   "log": {
